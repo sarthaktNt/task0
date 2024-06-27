@@ -1,3 +1,7 @@
+The assigned task has been successfully completed by me. You can check the updates in the latest commit.
+Feel free to review the code and provide feedback.Let me know if any further actions are required
+Thank you
+
 ## Setup/Installations
 * Install dependencies 
   * for server : ``npm install``
@@ -25,7 +29,7 @@
 
 ## LEVELS
 
-### Level 1 
+### Level 1   (Completed)
 - Add CSS:
 	- [ ] Convert the displayed data into an HTML table.
 	- [ ] Ensure there is appropriate spacing and padding between table elements for better readability [refer screenshot].
@@ -39,7 +43,7 @@
 
 
 
-### Level 2
+### Level 2 (Completed)
 - Integrate Antd components
 	- [ ] Table: Use Ant Design's table component to display the data.
 	- [ ] Buttons: Replace existing buttons with Ant Design's button components.
@@ -51,7 +55,7 @@
 
 
 
-### Level 3
+### Level 3 (Completed)
 - Add delete functionality:
 	- [ ] Delete for Each User: Implement a delete feature for each user entry
 
@@ -60,7 +64,7 @@
 
 
 
-### Level 4
+### Level 4  (Completed)
 - Add edit functionality:
 	- [ ] Edit for Each User: Implement a edit feature for each user entry
 
@@ -68,6 +72,7 @@
 
 
 
-### Bonus level
+### Bonus level (Completed)
 - [ ] Maintain separate reducer - create and manage a separate reducer for storing the details of the currently edited user.
 - [ ] Add Confirmation for Deletion - implement a confirmation dialog that asks for user approval before deleting a user entry.
+      
